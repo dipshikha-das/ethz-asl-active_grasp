@@ -1,15 +1,20 @@
 [submodule "active_grasp"]
 	path = active_grasp
 	url = https://github.com/ethz-asl/active_grasp
+	branch = devel
 [submodule "panda_moveit_config"]
 	path = panda_moveit_config
 	url = https://github.com/moveit/panda_moveit_config
+	branch = noetic-devel
 [submodule "robot_helpers"]
 	path = robot_helpers
 	url = https://github.com/mbreyer/robot_helpers
+	branch = main
 [submodule "vgn"]
 	path = vgn
 	url = https://github.com/ethz-asl/vgn
+	branch = devel
 [submodule "trac_ik"]
 	path = trac_ik
 	url = https://bitbucket.org/traclabs/trac_ik
+	branch = master
